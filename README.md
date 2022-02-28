@@ -6,7 +6,7 @@ so you can click on the chapter count to jump to the last chapter.
 ![A Screenshot of the new Link](./ChapterLink.jpg)
 
 
-To use, you'll need a user script extension, like ViolentMonkey or TamperMonkey
+To use, you'll need a userscript extension, like ViolentMonkey or TamperMonkey,
 installed in your browser. I wrote a tutorial on
 [making your own userscripts for Ao3 here](https://seanzwrites.com/posts/creating-custom-filters-on-ao3/)
 that covers how to install and write your own userscript.
