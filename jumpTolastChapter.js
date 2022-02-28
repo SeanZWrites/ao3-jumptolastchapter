@@ -2,7 +2,7 @@
 // @name         Ao3 Jump To Last
 // @version      1
 // @grant        none
-// @match        https://archiveofourown.org/*
+// @match        https://archiveofourown.org/works/*
 // @author       SeanZ
 // @description  Add link to jump to last chapter in Ao3 Fic
 // ==/UserScript==
